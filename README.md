@@ -31,7 +31,7 @@ This Master's thesis project evaluates the financial and operational feasibility
 
 * **Master's in Logistics and International Trade** | Universitat de Barcelona (Spain)
 * **Master's in Data Analytics** | National College of Ireland (Ireland)
-* **Bachelor's in Industrial and Systems Engineering**
+* **Bachelor's in Transportation Engineering**
 
 ---
 
