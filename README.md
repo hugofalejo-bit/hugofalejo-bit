@@ -39,5 +39,5 @@ This Master's thesis project evaluates the financial and operational feasibility
 
 I operate at the intersection of operational strategy and structured data analysis. I am actively open to connecting with professionals, recruiters, and organizations looking to drive continuous improvement, structural efficiency, and cost reduction through advanced supply chain analytics.
 
-* **LinkedIn:** [Insert your LinkedIn URL here]
-* **Explore my Digital Twin Project:** [Insert link to sit-2026-digital-twin repository]
+* **LinkedIn:** http://www.linkedin.com/in/hugofalejoc
+* **Explore my Digital Twin Project:** https://sit-2026-digital-twin-nwwdmoxqrsfzusvbnmhhod.streamlit.app/
